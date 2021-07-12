@@ -1,0 +1,12 @@
+{
+  "name": "generator-xm-vue",
+  "version": "1.0.0",
+  "description": "a custom scaffold",
+  "main": "index.js",
+  "repository": "https://gitee.com/xm1874/generator-xm-vue.git",
+  "author": "xiaoming",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  }
+}
